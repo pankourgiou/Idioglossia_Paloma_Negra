@@ -1,0 +1,1 @@
+#It's some bot poetry here, in the form of a hello world program. You can check previous posts(on issues folders) to see how it runs..!Research says pc writes better poetry than humans and that's true!! it's funny.
